@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Editor Scripts/LevelController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Obstacle Scripts/SimpleAsteroid.cs" Line="12" Column="87" />
+      <File FileName="Assets/Scripts/Weapon Scripts/Bullet.cs" Line="41" Column="1" />
+      <File FileName="Assets/Scripts/Player Scripts/PlayerControl.cs" Line="238" Column="5" />
+      <File FileName="Assets/Scripts/Editor Scripts/LevelController.cs" Line="29" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
